@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api"
+const API_URL = "https://expense-tracker-backend-s7q3.onrender.com/api"
 
 export const api = {
   register: async (userData) => {
